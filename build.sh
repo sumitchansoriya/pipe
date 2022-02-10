@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Dummy triger
+# Dummy trigger
 # Copying new jar to the build location
 
 cp -f target/*.jar .
